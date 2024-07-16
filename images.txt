@@ -1,2 +1,2 @@
-graylog
+# graylog
 graylog/graylog-datanode:5.2
