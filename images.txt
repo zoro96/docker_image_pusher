@@ -2,3 +2,7 @@
 graylog/graylog-datanode:5.2
 # graylog 
 graylog/graylog:5.2
+# opensearch
+opensearchproject/opensearch:2
+# opensearch-dashboards
+opensearchproject/opensearch-dashboards:2
