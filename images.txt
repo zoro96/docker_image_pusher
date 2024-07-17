@@ -1,8 +1,8 @@
 # graylog-datanode
-graylog/graylog-datanode:5.2
+graylog/graylog-datanode:6.1.0-alpha.5-1
 # graylog 
-graylog/graylog:5.2
+graylog/graylog:6.1.0-alpha.5-1
 # opensearch
-opensearchproject/opensearch:2
+# opensearchproject/opensearch:2
 # opensearch-dashboards
-opensearchproject/opensearch-dashboards:2
+# opensearchproject/opensearch-dashboards:2
